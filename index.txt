@@ -2,5 +2,9 @@ Hello Git!
 AAA
 BBB
 
+<<<<<<< HEAD
 
 新分支222
+=======
+新分支
+>>>>>>> newBranch
